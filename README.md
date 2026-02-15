@@ -1,3 +1,8 @@
+# ✅ Requirement (Important)
+
+Before running this code, make sure **Smartmontools / smartctl** is already installed on your system.
+
+---
 # Windows SMART Extraction Fix (system_info_extractor.py)
 
 ⚠️ **Note:** The current SMART extraction code is only suitable for **macOS**.
@@ -7,7 +12,6 @@
 and **replace the existing code** with the following updated code:
 
 ---
-
 ## ✅ Updated `system_info_extractor.py` Code (Windows Version)
 
 ```python
@@ -143,5 +147,6 @@ After both servers are running, open:
 ```bash
 http://localhost:8080/
 ```
+
 
 
