@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "Power_On_Hours": 2000,
+    "Total_TBW_TB": 0.6,
+    "Total_TBR_TB": 0.0,
+    "Temperature_C": 42.0,
+    "Percent_Life_Used": 0.8,
+    "Media_Errors": 0,
+    "Unsafe_Shutdowns": 1,
+    "CRC_Errors": 0,
+    "Read_Error_Rate": 0.0,
+    "Write_Error_Rate": 0.0
+  },
+  "temp_threshold": 80,
+  "extraction_status": {
+    "success": true,
+    "message": "Using provided/extracted metrics",
+    "os_type": "darwin",
+    "mac_arch": "arm64",
+    "smartctl_available": true,
+    "drive_detected": true,
+    "apple_silicon": true,
+    "smartctl_version": 7.5,
+    "data_source": "provided_metrics"
+  },
+  "timestamp": "2026-02-11 12:32:29"
+}
