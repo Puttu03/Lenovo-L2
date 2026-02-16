@@ -138,15 +138,16 @@ Open another terminal and run:
 
 ```bash
 cd frontend
-python -m http.server 8080
+python -m http.server 8000
 ```
 
 ## 🌐 Open Website in Browser
 After both servers are running, open:
 
 ```bash
-http://localhost:8080/
+http://localhost:8000/
 ```
+
 
 
 
