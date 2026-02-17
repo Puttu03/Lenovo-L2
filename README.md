@@ -147,7 +147,17 @@ After both servers are running, open:
 ```bash
 http://localhost:8000/
 ```
+# Here are some Screenshots of the web page
+
+## web page before data is entered
 <img width="1640" height="1300" alt="image" src="https://github.com/user-attachments/assets/da6cfff9-db4d-4073-a464-71b2875cb3ed" />
+
+## web page when Auto-Fill System data is clicked
+<img width="1626" height="1380" alt="image" src="https://github.com/user-attachments/assets/73c0b606-2880-4310-9987-e3934632b9cc" />
+
+## web page when data is entered and predict all features is clicked
+<img width="1620" height="1396" alt="image" src="https://github.com/user-attachments/assets/6be36a76-2f53-43d0-88d9-c8e92c10dc7e" />
+
 
 
 
