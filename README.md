@@ -147,6 +147,8 @@ After both servers are running, open:
 ```bash
 http://localhost:8000/
 ```
+<img width="1640" height="1300" alt="image" src="https://github.com/user-attachments/assets/da6cfff9-db4d-4073-a464-71b2875cb3ed" />
+
 
 
 
